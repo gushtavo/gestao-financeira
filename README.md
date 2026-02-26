@@ -64,7 +64,7 @@ O setor de operacões está sobrecarregados, aumentando consideravelmente as dep
 
   - DSO varia ao longo do tempo.
   
-O prazo de recebimento é de 17 dias e olhando pro gráfico a média de dias não está estável e muito vezes crescente isso indica piora na cobrança e risco de caixa, a sugestão é melhorar a forma de cobrança utilizando avisos de cobrança dois dias antes e no dia do vencimento, isso vai ajudar identificar quem são os melhores pagadores e os que tem atrasos recorrentes.
+O prazo de recebimento é de 17 dias e olhando pro gráfico a média de dias não está estável e muitas vezes crescente isso indica piora na cobrança e risco de caixa, a sugestão é melhorar a forma de cobrança utilizando avisos de cobrança dois dias antes e no dia do vencimento, isso vai ajudar identificar quem são os melhores pagadores e os que tem atrasos recorrentes.
 
 ## O tempo de pagamento (DPO) está sendo bem utilizado?
   <img width="1004" height="238" alt="Captura de tela 2026-02-25 203143" src="https://github.com/user-attachments/assets/442a2d2b-59ef-4dfc-9ede-801bcfddbad9" />
