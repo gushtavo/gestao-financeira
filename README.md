@@ -50,7 +50,7 @@ Após análise das views e KPIs, foram identificados padrões relevantes:
   
   - Alguns centros apresentam crescimento percentual acima da média.
 
-O setor de operacões está sobrecarregados, aumentando consideravelmente as depesas na parte operacional, precisamos melhorar a eficiência dessa opereção dividindo as tarefas de forma adequada para cada setor tornando o trabalho mais fluído e compatível para todos, e consequentemente ajustando as despesas.
+O setor de operacões está sobrecarregados, aumentando consideravelmente as depesas na parte operacional, precisamos melhorar a eficiência dessa operação dividindo as tarefas de forma adequada para cada setor tornando o trabalho mais fluído e compatível para todos, e consequentemente ajustando as despesas.
 
 🔎 Insight:
 
