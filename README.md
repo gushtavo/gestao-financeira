@@ -80,7 +80,7 @@ levando em consideração o prazo dos fornecedores que é de 25 dias para o paga
 
 - A empresa pode melhorar sua gestão de capital de giro ajustando prazos de recebimento e pagamento.
 
-## 3️⃣ SOLUÇÃO
+## 2️⃣ SOLUÇÃO
 🧠 Abordagem Analítica
 
   - Foi desenvolvido um modelo analítico com:
@@ -107,7 +107,7 @@ levando em consideração o prazo dos fornecedores que é de 25 dias para o paga
   
   - DPO = media de dias para pagar
 
-## 4️⃣ IMPACTO
+## 3️⃣ IMPACTO
 📈 Benefícios para o Negócio
 
 ✔ Visibilidade clara da margem real
