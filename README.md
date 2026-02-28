@@ -130,5 +130,8 @@ levando em consideração o prazo dos fornecedores que é de 25 dias para o paga
 
 - Melhor planejamento financeiro
 
+# Dashboard 📊
+- # [Power BI - Gestão Financeira](https://app.powerbi.com/view?r=eyJrIjoiMGJkMTFkMGYtYWI1NS00MDY4LWI2ODEtZDBmNDU0ZjVjZGQ5IiwidCI6IjM2Yzc4ZDUwLThlY2UtNDNmYS1iMThlLTFlOWE5ZTNjNDI1ZCJ9)
+
 # 📩 Contato
 [Linkedin](https://www.linkedin.com/in/gushtavoroberto/) | 📧 almeida.gustavo0420@gmail.com 
