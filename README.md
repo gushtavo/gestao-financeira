@@ -129,3 +129,6 @@ levando em consideração o prazo dos fornecedores que é de 25 dias para o paga
 - Aumento da previsibilidade de caixa
 
 - Melhor planejamento financeiro
+
+# 📩 Contato
+[Linkedin](https://www.linkedin.com/in/gushtavoroberto/) | 📧 almeida.gustavo0420@gmail.com 
